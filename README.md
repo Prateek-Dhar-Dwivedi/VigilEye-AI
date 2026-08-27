@@ -114,7 +114,4 @@ You can easily adjust sensitivity parameters in `src/config.py`:
 - **Day 2**: MediaPipe Face Mesh landmark extraction, EAR math engine, and Pygame audio-visual alert subsystems.
 - **Day 3**: Integration, multi-device calibration, stress testing, and documentation.
 
----
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
